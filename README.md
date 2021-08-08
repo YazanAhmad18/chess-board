@@ -20,3 +20,10 @@
 * queens on same column should be “under attack”
 * queens on same diagonal should be “under attack”
 * queens with any other coordinates should NOT be “under attack”
+
+
+## Table Of Content
+
+| PR | Links                                                     |
+| -------- | --------------------------------------------------------- |
+| Lab: 11 - Numpy  | [PR (1)](https://github.com/YazanAhmad18/chess-board/pull/1) |
